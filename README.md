@@ -1,5 +1,5 @@
 # Tips for you
-This is an excel sheet that contains all the tasks that I've implemented during my summer training of 2024. Hope that it will benefit you. 
+This is an excel sheet that contains all the tasks that I've implemented during my summer training of 2024 in Smart Methods Company. Hope that it will benefit you. 
 And remember: **"You are an engineer, you make the impossible possible, and the possible even better"**.<br>
 
 **Always be confident and don't loose your faith about yourself. You can do it 💪** <br>
