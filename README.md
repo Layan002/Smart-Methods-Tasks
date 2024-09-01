@@ -6,6 +6,6 @@ Aways be confident and dont lose your faith about yourself. You can do it 💪 <
 
 Remember: If you found it hard; BREAK IT DOWN !
 
-Here the file:<br>
+Here is the file:<br>
 [Tasks check-list.xlsx](https://github.com/user-attachments/files/16830541/Tasks.check-list.xlsx)
 
